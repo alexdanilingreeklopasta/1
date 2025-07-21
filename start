@@ -1,1 +1,2 @@
 sudo apt install curl screen -y
+screen -S Gensyn
